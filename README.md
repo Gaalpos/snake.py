@@ -6,4 +6,3 @@
 - [ ] COLLISIONS
 - [ ] COUNTER
 - [ ] SAVE STATS TO A FILE
-- [ ] 
