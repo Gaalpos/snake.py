@@ -15,6 +15,7 @@ grid_height=10
 COLOR = (55, 200, 80)
 screen.fill(COLOR)
 snake = [(0, middle_y+1),(0, middle_y+1) ]
+inicio = snake(0)
 
 
 
